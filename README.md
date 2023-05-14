@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Enes-Dixon
+- 👀 I’m interested in Software and Design WEB Sites.
+- 🌱 I’m currently learning HTML and CSS. And Also I am good at Python.
+- 💞️ I’m looking to collaborate on Education and future career
+- 📫 It's my mail: enesdixonn@gmail.com
